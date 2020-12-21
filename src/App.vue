@@ -1,42 +1,26 @@
 <template>
   <div>
-    <!-- <DefaultSlot>
-      <template>
-        <div class="out-box">
-          感觉自己萌萌哒!!!
-        </div>
+    <van-swipe-cell>
+      <template #left>
+        <span>(づ￣ 3￣)づ</span>
       </template>
-    </DefaultSlot> -->
-
-    <NameSlot>
-      <!-- <template v-slot:top> -->
-      <template #top>
-        中分还带波浪👱
+      <van-cell :border="false" title="单元格" value="内容" />
+      <template #right>
+        <van-button square type="danger" text="删除" />
+        <span>呵呵!!</span>
       </template>
-      感觉自己萌萌哒
-      <!-- <template v-slot:bottom> -->
-      萌你奶奶个腿
-      <!-- </template> -->
-    </NameSlot>
+    </van-swipe-cell>
   </div>
 </template>
 
 <script>
-// import DefaultSlot from './components/01.默认插槽'
-import NameSlot from './components/02.具名插槽'
 export default {
-  name: 'app',
-  components: {
-    // DefaultSlot
-    NameSlot
+  data () {
+    return {
+      value: '(づ￣ 3￣)づ'
+    }
   }
 }
 </script>
 
-<style>
-.out-box {
-  color: white;
-  background-color: skyblue;
-  padding: 20px;
-}
-</style>
+<style></style>
