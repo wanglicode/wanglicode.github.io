@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页一" transform="translate(-900.000000, -289.000000)">
+            <g id="编组-5备份-2" transform="translate(900.000000, 289.000000)">
+                <rect id="矩形" fill="#FF410D" x="0" y="0" width="20" height="20" rx="4"></rect>
+                <g id="编组-6" transform="translate(3.000000, 4.000000)">
+                    <path d="M3,2 C3,0.8954305 3.8954305,0 5,0 L10,0 C11.1045695,0 12,0.8954305 12,2 L12,10 C12,11.1045695 11.1045695,12 10,12 L5,12 C3.8954305,12 3,11.1045695 3,10" id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M1,5 L6,5 C6.55228475,5 7,5.44771525 7,6 C7,6.55228475 6.55228475,7 6,7 L1,7 C0.44771525,7 6.76353751e-17,6.55228475 0,6 C-6.76353751e-17,5.44771525 0.44771525,5 1,5 Z" id="矩形" fill="#FFFFFF"></path>
+                    <polyline id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.500000, 6.121320) rotate(45.000000) translate(-5.500000, -6.121320) " points="4 4.62132034 7 4.62132034 7 7.62132034"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

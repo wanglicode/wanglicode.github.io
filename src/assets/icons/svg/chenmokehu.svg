@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="260px" viewBox="0 0 220 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M61,52 C59.8954305,52 59,51.1045695 59,50 L59,40.6666667 L59.0040919,40.4493074 C59.1183229,37.4204227 61.6098348,35 64.6666667,35 C67.7962802,35 70.3333333,37.5370531 70.3333333,40.6666667 C73.4629469,40.6666667 76,43.2037198 76,46.3333333 C76,49.4629469 73.4629469,52 70.3333333,52 L70.3333333,52 L61,52 Z" id="path-1"></path>
+        <filter x="-11.8%" y="-11.8%" width="123.5%" height="123.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M47,51 C45.8954305,51 45,50.1045695 45,49 L45,37 L45.004059,36.7593502 C45.1309013,33.0047834 48.2145483,30 52,30 C55.8659932,30 59,33.1340068 59,37 C62.8659932,37 66,40.1340068 66,44 C66,47.8659932 62.8659932,51 59,51 L59,51 L47,51 Z" id="path-3"></path>
+        <filter x="-9.5%" y="-9.5%" width="119.0%" height="119.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="客户SOP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-647.000000, -397.000000)">
+            <g id="沉默用户" transform="translate(647.000000, 397.000000)">
+                <g id="编组-11" transform="translate(49.000000, 69.000000)">
+                    <path d="M94.6666667,101 C95.3157773,101 95.9473782,101.210534 96.4666667,101.6 L96.4666667,101.6 L101.4,105.3 C101.731371,105.548528 101.930635,105.907843 101.984924,106.287868 C102.039214,106.667893 101.948528,107.068629 101.7,107.4 C101.416718,107.777709 100.972136,108 100.5,108 L100.5,108 L21.5,108 C21.0857864,108 20.7107864,107.832107 20.4393398,107.56066 C20.1678932,107.289214 20,106.914214 20,106.5 C20,106.027864 20.2222912,105.583282 20.6,105.3 L20.6,105.3 L25.5333333,101.6 C26.0526218,101.210534 26.6842227,101 27.3333333,101 L27.3333333,101 Z" id="矩形" stroke="#2172FF" stroke-width="2" fill="#D3E3FF"></path>
+                    <ellipse id="椭圆形" fill="#F1F6FF" cx="61" cy="125" rx="50" ry="5"></ellipse>
+                    <path d="M112,1 C114.485281,1 116.735281,2.00735931 118.363961,3.63603897 C119.992641,5.26471863 121,7.51471863 121,10 L121,10 L121,84 C121,86.4852814 119.992641,88.7352814 118.363961,90.363961 C116.735281,91.9926407 114.485281,93 112,93 L112,93 L10,93 C7.51471863,93 5.26471863,91.9926407 3.63603897,90.363961 C2.00735931,88.7352814 1,86.4852814 1,84 L1,84 L1,10 C1,7.51471863 2.00735931,5.26471863 3.63603897,3.63603897 C5.26471863,2.00735931 7.51471863,1 10,1 L10,1 Z" id="矩形" stroke="#2172FF" stroke-width="2" fill="#FFFFFF"></path>
+                    <path d="M14,8 L108,8 C111.313708,8 114,10.6862915 114,14 L114,72 C114,75.3137085 111.313708,78 108,78 L14,78 C10.6862915,78 8,75.3137085 8,72 L8,14 C8,10.6862915 10.6862915,8 14,8 Z" id="矩形" fill="#D3E3FF"></path>
+                    <rect id="矩形" stroke="#2172FF" stroke-width="2" fill="#D3E3FF" x="55" y="82" width="12" height="6" rx="3"></rect>
+                    <g id="形状结合备份" stroke-linejoin="round" transform="translate(67.500000, 43.500000) rotate(-45.000000) translate(-67.500000, -43.500000) ">
+                        <use fill="#24FAE6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#2172FF" stroke-width="2" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="形状结合" stroke-linejoin="round" transform="translate(55.500000, 40.500000) rotate(-45.000000) translate(-55.500000, -40.500000) ">
+                        <use fill="#24FAE6" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use stroke="#2172FF" stroke-width="2" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="编组-10" transform="translate(93.500000, 28.500000) rotate(20.000000) translate(-93.500000, -28.500000) translate(90.000000, 25.000000)" fill="#FFFFFF">
+                        <g id="编组-9" transform="translate(0.000000, 0.000000)">
+                            <rect id="矩形" x="0" y="2.38751494" width="6.3667065" height="1.59167662" rx="0.795838312"></rect>
+                            <rect id="矩形" transform="translate(3.183353, 3.183353) rotate(90.000000) translate(-3.183353, -3.183353) " x="0" y="2.38751494" width="6.3667065" height="1.59167662" rx="0.795838312"></rect>
+                        </g>
+                    </g>
+                    <g id="编组-10备份" transform="translate(39.000000, 23.000000) rotate(80.000000) translate(-39.000000, -23.000000) translate(37.000000, 21.000000)" fill="#FFFFFF">
+                        <g id="编组-9" transform="translate(0.000000, 0.000000)">
+                            <rect id="矩形" x="0" y="1.44509128" width="3.85357674" height="1" rx="0.5"></rect>
+                            <rect id="矩形" transform="translate(1.926788, 1.926788) rotate(90.000000) translate(-1.926788, -1.926788) " x="0" y="1.44509128" width="3.85357674" height="1" rx="0.5"></rect>
+                        </g>
+                    </g>
+                    <g id="编组-10备份" transform="translate(27.000000, 30.000000) rotate(-80.000000) translate(-27.000000, -30.000000) translate(24.000000, 27.000000)" fill="#FFFFFF">
+                        <g id="编组-9" transform="translate(0.000000, 0.000000)">
+                            <rect id="矩形" x="0" y="2.02887962" width="5.41034565" height="1.35258641" rx="0.676293206"></rect>
+                            <rect id="矩形" transform="translate(2.705173, 2.705173) rotate(90.000000) translate(-2.705173, -2.705173) " x="0" y="2.02887962" width="5.41034565" height="1.35258641" rx="0.676293206"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
