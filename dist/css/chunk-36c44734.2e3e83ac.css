@@ -1,0 +1,1 @@
+.pie{position:relative;background-color:#ff0;width:200px;height:200px;border-radius:100px;margin:100px auto}.pie .item{position:absolute;top:0;left:0;width:100px;height:100px;background-color:pink;transform-origin:0 100%}

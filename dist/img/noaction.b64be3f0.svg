@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="商机设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1617.000000, -645.000000)">
+            <g id="编组-4" transform="translate(1617.000000, 645.000000)">
+                <circle id="椭圆形备份" stroke="#E5E5E5" fill="#FFFFFF" cx="15" cy="15" r="14.5"></circle>
+                <g id="设置" transform="translate(7.000000, 7.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M15.0625,7.795 C15.0625,8.23406638 14.7065664,8.59 14.2675,8.59 L1.795,8.59 C1.35593362,8.59 1,8.23406638 1,7.795 C1,7.35593362 1.35593362,7 1.795,7 L14.2675,7 C14.7065664,7 15.0625,7.35593362 15.0625,7.795 Z" id="路径-10" fill="#616161"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

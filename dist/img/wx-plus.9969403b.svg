@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形备份 12</title>
+    <g id="素材管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="素材管理-视频-新建" transform="translate(-649.000000, -167.000000)">
+            <g id="主按钮:1/中" transform="translate(629.000000, 158.000000)">
+                <g id="编组-3" transform="translate(20.000000, 7.000000)">
+                    <g id="导出-进入-出口" transform="translate(8.000000, 11.000000) rotate(-90.000000) translate(-8.000000, -11.000000) translate(0.000000, 3.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="15.7994214" height="15.7994214"></rect>
+                        <g id="编组-3" transform="translate(0.000000, 1.000000)" fill="#FFFFFF">
+                            <path d="M7.795,0 C8.23406638,2.68850616e-17 8.59,0.355933624 8.59,0.795 L8.59,6.205 L14,6.205 C14.4390664,6.205 14.795,6.56093362 14.795,7 C14.795,7.43906638 14.4390664,7.795 14,7.795 L8.59,7.794 L8.59,13.205 C8.59,13.6440664 8.23406638,14 7.795,14 C7.35593362,14 7,13.6440664 7,13.205 L7,7.794 L1.59,7.795 C1.15093362,7.795 0.795,7.43906638 0.795,7 C0.795,6.56093362 1.15093362,6.205 1.59,6.205 L7,6.204 L7,0.795 C7,0.355933624 7.35593362,-2.68850616e-17 7.795,0 Z" id="形状结合"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
